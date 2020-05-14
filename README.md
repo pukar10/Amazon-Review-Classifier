@@ -2,16 +2,16 @@
 Machine Learning / Data mining - Reads and Labels whether an amazon review is positive or negative. Implements KNN (K nearest neighbors)
 to Label review.
 
-Dataset <br />
+######Dataset <br />
 train - 17,000 amazon reviews; Labels: +1 for positive, -1 for negative. 
 test - 3,000 amazon reviews no labels.
 
-Approach <br />
+######Approach <br />
 2d array to store each review and word. Rows = reviews, columns = words. Use nltk to extract stop words/punctuation and
 stem all words (playing = play | running = run). Use textblob to get polarity of each sentence. Create list of features. Plot, 
 if majority near it is positive review is positive otherwise negative.
 
-Major libraries <br />
+######Major libraries <br />
 textblob <br />
 nump y<br />
 nltk <br />
