@@ -1,9 +1,10 @@
 # Amazon-Review-Classifier
 Machine Learning / Data mining - Reads and Labels whether an amazon review is positive or negative. Implements KNN (K nearest neighbors)
-to Label review.
+to Label review. A molecule can be represented by several thousands of binary features which represent their topological shapes and other characteristics important for binding.
 
 ## Dataset
-train - 17,000 amazon reviews; Labels: +1 for positive, -1 for negative. 
+The dataset has an imbalanced distribution 
+train - 17,000 amazon reviews; Labels: +1 for positive, -1 for negative. <br />
 test - 3,000 amazon reviews no labels.
 
 ## Approach
