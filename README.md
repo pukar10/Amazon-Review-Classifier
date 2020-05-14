@@ -11,7 +11,7 @@ test - 3,000 amazon reviews no labels.
 stem all words (playing = play | running = run). Use textblob to get polarity of each sentence. Create list of features. Plot, 
 if majority near it is positive review is positive otherwise negative.
 
-## Major libraries
+## Libraries
 textblob <br />
 nump y<br />
 nltk <br />
