@@ -2,9 +2,10 @@
   
 # Amazon Review Classifier
 
-</div>
 Machine Learning / Data mining - Reads and Labels whether an amazon review is positive or negative. Implements KNN (K nearest neighbors)
 to label review.
+</div>
+
 
 ### Dataset
 - train - 17,000 amazon reviews; Labels: +1 for positive, -1 for negative. <br />
